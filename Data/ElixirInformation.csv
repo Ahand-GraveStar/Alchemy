@@ -1,0 +1,35 @@
+Name skill_required vendor auction worth_it? cost ingredients
+Elixir_of_Minor_Defense 0 5 2-Silverleaf,1-Empty_Vial
+Elixir_of_Lion's_Strength 0 20 1-Earthroot,1-Silver_Leaf,1-Empty_Vial
+Elixir_of_Minor_Fortitude 50 15 2-Earthroot,1-Peacebloom,1-Empty_Vial
+Elixir_of_Minor_Agility 50 15 1-Swiftthistle,1-Silverleaf
+Elixir_of_Water_Breathing 90 95 1-Strangekelp,2-Blackmouth_Oil,1-Empty_Vial
+Elixir_of_Giant_Growth 90 95 1-Deviate_Fish,1-Earthroot,1-Empty_Vial
+Elixir_of_Wisdom 90 100 1-Mageroyal,2-Briarthorn,1-Empty_Vial
+Potion_of_Curing 120 35 1-Large_Venom_Sac,1-Bruiseweed,1-Leaded_Vial
+Elixir_of_Defense 130 40 1-Wild_Steelbloom,1-Strangekelp,1-Leaded_Vial
+Elixir_of_Firepower 140 35 2-Fire_Oil,1_Kingsblood,1-Leaded_Vial
+Elixir_of_Ogre's_Strength
+Elixir_of_Fortitude
+Elixir_of_Agility 185 200 1-Strangekelp,1-Goldthorn,1-Leaded_Vial
+Elixir_of_Greater_Defense 195 200 1-Wild_Steelbloom,1-Goldthorn,1-Leaded_Vial
+Elixir_of_Detect_Lesser_Invisibility
+Catseye_Elixir 200 150 1-Goldthorn,1-Fadeleaf,1-Leaded_Vial
+Elixir_of_Greater_Water_Breathing 215 250 1-Ichor_of_Undeath,2-Purple_Lotus,1-Crystal_Vial
+Elixir_of_Detect_Undead 230 300 1-Arthas'_Tears,1-Crystal_Vial
+Arcane_Elixir 235 400 1-Blindweed,1-Goldthorn,1-Crystal_Vial
+Elixir_of_Greater_Intellect 235 1000 1-Blindweed,1-Khadgar's_Whisker,1-Crystal_Vial
+Elixir_of_Greater_Agility 240 600 1-Sungrass,1-Goldthorn,1-Crystal_Vial
+Elixir_of_Detect_Demon 250 500 2-Gromsblood,1-Crystal_Vial
+
+Elixir_of_Demonslaying
+Elixir_of_Frost_Power
+Elixir_of_Shadow_Power
+Elixir_of_Superior_Defense
+
+Elixir_of_Brute_Force
+Elixir_of_Dream_Vision
+Elixir_of_Giants
+Elixir_of_Greater_Firepower
+Elixir_of_Lesser_Agility
+Elixir_of

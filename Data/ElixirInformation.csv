@@ -1,4 +1,4 @@
-Name                                    Skill_Required      vendor      auction worth_it? cost ingredients
+Name                                    Skill_Required      Vendor      Ingredients
 Elixir_of_Minor_Defense                 1                   5           2-Silverleaf,1-Empty_Vial
 Elixir_of_Lion's_Strength               1                   20          1-Earthroot,1-Silver_Leaf,1-Empty_Vial
 Weak_Troll's_Blood_Potion               15                  10          1-Peacebloom,2-Earthroot,1-Empty_Vial

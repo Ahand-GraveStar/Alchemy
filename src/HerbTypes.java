@@ -1,6 +1,4 @@
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -69,36 +67,12 @@ public class HerbTypes {
         //change name, money, level
     }
 
-    public boolean deleteHerb(Herb herb) {
-        try {
-            herbList.remove(herb);
-            saveDataToFile();
-            return true;
-        }
-        catch (Exception e) {
-            return false;
-        }
-    }
-
-    private void saveDataToFile() {
-        try {
-            BufferedWriter bw = new BufferedWriter(new FileWriter(herbFilename));
-            for(Herb herb : herbList){
-                bw.write(convertHerbToLine(herb, ","));
-                bw.newLine();
-            }
-            bw.close();
-        } catch (IOException e) {
-            System.out.println("Error saving aid ship data to file");
-        }
-    }
-
     private Herb convertLineToHerb(String line, String delimiter) {
         String[] fields = line.split(delimiter);
         if(fields.length != 3){
             return null;
         }
-        return new Herb(fields[0], Integer.parseInt(fields[1]), fields[2]);
+        return new Herb(fields[0], fields[1], Integer.parseInt(fields[2]));
     }
 
     private String convertHerbToLine(Herb herb, String delimiter) {

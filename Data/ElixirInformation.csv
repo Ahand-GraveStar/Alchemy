@@ -1,35 +1,59 @@
-Name skill_required vendor auction worth_it? cost ingredients
-Elixir_of_Minor_Defense 0 5 2-Silverleaf,1-Empty_Vial
-Elixir_of_Lion's_Strength 0 20 1-Earthroot,1-Silver_Leaf,1-Empty_Vial
-Elixir_of_Minor_Fortitude 50 15 2-Earthroot,1-Peacebloom,1-Empty_Vial
-Elixir_of_Minor_Agility 50 15 1-Swiftthistle,1-Silverleaf
-Elixir_of_Water_Breathing 90 95 1-Strangekelp,2-Blackmouth_Oil,1-Empty_Vial
-Elixir_of_Giant_Growth 90 95 1-Deviate_Fish,1-Earthroot,1-Empty_Vial
-Elixir_of_Wisdom 90 100 1-Mageroyal,2-Briarthorn,1-Empty_Vial
-Potion_of_Curing 120 35 1-Large_Venom_Sac,1-Bruiseweed,1-Leaded_Vial
-Elixir_of_Defense 130 40 1-Wild_Steelbloom,1-Strangekelp,1-Leaded_Vial
-Elixir_of_Firepower 140 35 2-Fire_Oil,1_Kingsblood,1-Leaded_Vial
-Elixir_of_Ogre's_Strength
-Elixir_of_Fortitude
-Elixir_of_Agility 185 200 1-Strangekelp,1-Goldthorn,1-Leaded_Vial
-Elixir_of_Greater_Defense 195 200 1-Wild_Steelbloom,1-Goldthorn,1-Leaded_Vial
-Elixir_of_Detect_Lesser_Invisibility
-Catseye_Elixir 200 150 1-Goldthorn,1-Fadeleaf,1-Leaded_Vial
-Elixir_of_Greater_Water_Breathing 215 250 1-Ichor_of_Undeath,2-Purple_Lotus,1-Crystal_Vial
-Elixir_of_Detect_Undead 230 300 1-Arthas'_Tears,1-Crystal_Vial
-Arcane_Elixir 235 400 1-Blindweed,1-Goldthorn,1-Crystal_Vial
-Elixir_of_Greater_Intellect 235 1000 1-Blindweed,1-Khadgar's_Whisker,1-Crystal_Vial
-Elixir_of_Greater_Agility 240 600 1-Sungrass,1-Goldthorn,1-Crystal_Vial
-Elixir_of_Detect_Demon 250 500 2-Gromsblood,1-Crystal_Vial
-
-Elixir_of_Demonslaying
-Elixir_of_Frost_Power
-Elixir_of_Shadow_Power
-Elixir_of_Superior_Defense
-
-Elixir_of_Brute_Force
-Elixir_of_Dream_Vision
-Elixir_of_Giants
-Elixir_of_Greater_Firepower
-Elixir_of_Lesser_Agility
-Elixir_of
+Name                                    Skill_Required      vendor      auction worth_it? cost ingredients
+Elixir_of_Minor_Defense                 1                   5           2-Silverleaf,1-Empty_Vial
+Elixir_of_Lion's_Strength               1                   20          1-Earthroot,1-Silver_Leaf,1-Empty_Vial
+Weak_Troll's_Blood_Potion               15                  10          1-Peacebloom,2-Earthroot,1-Empty_Vial
+Elixir_of_Minor_Fortitude               50                  15          2-Earthroot,1-Peacebloom,1-Empty_Vial
+Elixir_of_Minor_Agility                 50                  15          1-Swiftthistle,1-Silverleaf
+Elixir_of_Water_Breathing               90                  95          1-Strangekelp,2-Blackmouth_Oil,1-Empty_Vial
+Elixir_of_Giant_Growth                  90                  95          1-Deviate_Fish,1-Earthroot,1-Empty_Vial
+Elixir_of_Wisdom                        90                  100         1-Mageroyal,2-Briarthorn,1-Empty_Vial
+Strong_Troll's_Blood_Potion             125                 40          2-Bruiseweed,2-Briarthorn,1-Leaded_Vial
+Elixir_of_Defense                       130                 40          1-Wild_Steelbloom,1-Strangekelp,1-Leaded_Vial
+Elixir_of_Firepower                     140                 35          2-Fire_Oil,1_Kingsblood,1-Leaded_Vial
+Elixir_of_Lesser_Agility                140                 35          1-Wild_Steelbloom,1-Swiftthistle,1-Leaded_Vial
+Elixir_of_Ogre's_Strength               150                 20          1-Earthroot,1-Kingsblood,1-Leaded_Vial
+Elixir_of_Fortitude                     175                 110         1-Wild_Steelbloom,1-Goldthorn,1-Leaded_Vial
+Mighty_Troll's_Blood_Potion             180                 105         1-Liferoot,1-Bruiseweed,1-Leaded_Vial
+Elixir_of_Agility                       185                 200         1-Strangekelp,1-Goldthorn,1-Leaded_Vial
+Elixir_of_Frost_Power                   190                 35          2-Wintersbite,1-Khadgar's_Whisker,1-Leaded_Vial
+Elixir_of_Greater_Defense               195                 200         1-Wild_Steelbloom,1-Goldthorn,1-Leaded_Vial
+Elixir_of_Detect_Lesser_Invisibility    195                 150         1-Khadgar's_Whisker,1-Fadeleaf,1-Leaded_Vial
+Catseye_Elixir                          200                 150         1-Goldthorn,1-Fadeleaf,1-Leaded_Vial
+Elixir_of_Greater_Water_Breathing       215                 250         1-Ichor_of_Undeath,2-Purple_Lotus,1-Crystal_Vial
+Elixir_of_Detect_Undead                 230                 300         1-Arthas'_Tears,1-Crystal_Vial
+Elixir_of_Greater_Intellect             235                 1000        1-Blindweed,1-Khadgar's_Whisker,1-Crystal_Vial
+Arcane_Elixir                           235                 400         1-Blindweed,1-Goldthorn,1-Crystal_Vial
+Gift_of_Arthas                          240                 250         1-Arthas'_Tears,1-Blindweed,1-Crystal_Vial
+Elixir_of_Giants                        245                 700         1-Sungrass,1-Gromsblood,1-Crystal_Vial
+Elixir_of_Greater_Agility               240                 600         1-Sungrass,1-Goldthorn,1-Crystal_Vial
+Elixir_of_Dream_Vision                  240                 600         3-Purple_Lotus,1-Crystal_Vial
+Elixir_of_Demonslaying                  250                 700         1-Gromsblood,1-Ghost_Mushroom,1-Crystal_Vial
+Mageblood_Potion                        275                 1000        1-Dreamfoil,2-Plaguebloom,1-Crystal_Vial
+Elixir_of_Shadow_Power                  250                 35          3-Ghost_Mushroom,1-Crystal_Vial
+Elixir_of_Greater_Firepower             250                 35          3-Fire_Oil,3-Firebloom,1-Crystal_Vial
+Elixir_of_Detect_Demon                  250                 500         2-Gromsblood,1-Crystal_Vial
+Elixir_of_Superior_Defense              265                 500         2-Stonescale_Oil,1-Sungrass,1-Crystal_Vial
+Elixir_of_the_Sages                     270                 1250        1-Dreamfoil,2-Plaguebloom,1-Crystal_Vial
+Elixir_of_Brute_Force                   275                 1250        2-Gromsblood,2-Plaguebloom,1-Crystal_Vial
+Elixir_of_the_Mongoose                  280                 1250        2-Mountain_Silversage,2-Plaguebloom,1-Crystal_Vial
+Greater_Arcane_Elixir                   285                 750         3-Dreamfoil,1-Mountain_Silversage
+Major_Troll's_Blood_Potion              290                 1000        1-Gromsblood,2-Plaguebloom,1-Crystal_Vial
+Adept's_Elixir                          300                 2500        1-Dreamfoil,1-Felweed,1-Imbued_Vial
+Onslaught_Elixir                        300                 2500        1-Mountain_Silversage,1-Felweed,1-Imbued_Vial
+Elixir_of_Healing_Power                 310                 2500        1-Golden_Sansam,1-Dreaming_Glory,1-Imbued_Vial
+Elixir_of_Major_Fortitude               310                 1250        2-Ragveil,1-Felweed,1-Imbued_Vial
+Elixir_of_Major_Strength                305                 2500        1-Mountain_Silversage,1-Felweed,1-Imbued_Vial
+Elixir_of_Camoflauge                    305                 2500        1-Ragveil,1-Felweed,1-Imbued_Vial
+Elixir_of_Mastery                       315                 2500        3-Terocone,1-Felweed,1-Imbued_Vial
+Earthern_Elixir                         320                 1500        1-Dreaming_Glory,2-Ragveil,1-Imbued_Vial
+Elixir_of_Draenic_Wisdom                320                 1500        1-Felwood,1-Terocone,1-Imbued_Vial
+Elixir_of_Major_Firepower               345                 2500        2-Mote_of_Fire,1-Ancient_Lichen,1-Imbued_Vial
+Elixir_of_Major_Frost_Power             320                 2500        2-Mote_of_Water,1-Ancient_Lichen,1-Imbued_Vial
+Elixir_of_the_Searching_Eye             325                 4000        2-Ragveil,1-Terocone,1-Imbued_Vial
+Elixir_of_Major_Agility                 330                 4000        1-Terocone,2-Felweed,1-Imbued_Vial
+Elixir_of_Ironskin                      330                 1500        1-Ancient_Lichen,1-Ragveil,1-Imbued_Vial
+Fel_Strength_Elixir                     335                 3000        1-Terocone,2-Nightmare_Vine,1-Imbued_Vial
+Elixir_of_Major_Defense                 345                 4000        3-Ancient_Lichen,1-Terocone,1-Imbued_Vial
+Elixir_of_Major_Shadow_Power            350                 6000        1-Ancient_Lichen,1-Nightmare_Vine,1-Imbued_Vial
+Elixir_of_Major_Mageblood               355                 6000        1-Ancient_Lichen,1-Netherbloom,1-Imbued_Vial
+Elixir_of_Empowerment                   365                 7000        1-Netherbloom,1-Mana_Thistle,1-Imbued_Vial
